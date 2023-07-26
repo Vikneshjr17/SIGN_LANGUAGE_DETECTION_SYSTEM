@@ -16,7 +16,9 @@ Despite the critical importance of sign language as a means of communication for
 The objectives of the Sign Language Detection System are :
 
 i. To design a computer vision-based system capable of detecting and recognizing sign language gestures in real-time
+
 ii. To implement a machine learning algorithm that can accurately identify a broad range of sign language signs.
+
 iii. To evaluate the accuracy of machine learning algorithm that can detect sign language signs.
 
 ## Project Significance

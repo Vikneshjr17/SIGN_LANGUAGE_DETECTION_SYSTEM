@@ -39,7 +39,7 @@ The expected outcome of Sign Language Detection System is to accurately recogniz
 
 • Educational Institutions: Schools and universities that have students who are deaf or hard of hearing can use SLDS in classrooms. It facilitates communication between deaf students and hearing teachers or classmates, ensuring equal access to education.
 
-• Workplaces and Professional Settings: SLDS can be valuable in professional environments where deaf or hard of hearing individuals interact with hearing colleagues or clients. It promotes effective communication during meetings, presentations, and other workrelated interactions, fostering inclusivity and equal opportunities.
+• Workplaces and Professional Settings: SLDS can be valuable in professional environments where deaf or hard of hearing individuals interact with hearing colleagues or clients. It promotes effective communication during meetings, presentations, and other work-related interactions, fostering inclusivity and equal opportunities.
 
 • Public Services and Customer Support: Government agencies, healthcare facilities, and other service providers can utilize SLDS to communicate with deaf or hard of hearing individuals. It ensures equal access to essential services and improves customer support by enabling representatives to understand and respond to sign language inquiries.
 
